@@ -7,9 +7,9 @@ def main():
     driver = webdriver.Chrome(ChromeDriverManager().install())  # 2nd change
     driver.get('https://web.whatsapp.com/')
 
-    name = "<who you want to send msg , >"# please enter a name what you saved in your contects and make sure you unachevied that contect
-    msg = "Hello,Friend!!"
-    count = 15 #here you can set msg count...................... 
+    name = "Unbeatable IT Champs 🏆"# please enter a name what you saved in your contects and make sure you unachevied that contect
+    msg = "Me fenil madarchod hu\n ji ha hu aur rahunga"
+    count = 200 #here you can set msg count...................... 
 
     input('Enter any key after scanning QR code')
 
